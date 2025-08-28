@@ -116,9 +116,15 @@
     "zubair-react-form-builder": "^1.1.1"
   },
   "overrides": {
-    "faker": "npm:@faker-js/faker@^8.2.0"
+    "faker": "npm:@faker-js/faker@^8.2.0",
+    "git+https://github.com/Marak/faker.js.git": "npm:@faker-js/faker@^8.2.0",
+    "https://github.com/Marak/faker.js.git": "npm:@faker-js/faker@^8.2.0",
+    "github:Marak/faker.js": "npm:@faker-js/faker@^8.2.0"
   },
   "resolutions": {
-    "faker": "npm:@faker-js/faker@^8.2.0"
+    "faker": "npm:@faker-js/faker@^8.2.0",
+    "git+https://github.com/Marak/faker.js.git": "npm:@faker-js/faker@^8.2.0",
+    "https://github.com/Marak/faker.js.git": "npm:@faker-js/faker@^8.2.0",
+    "github:Marak/faker.js": "npm:@faker-js/faker@^8.2.0"
   }
 }
